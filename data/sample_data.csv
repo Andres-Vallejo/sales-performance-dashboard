@@ -1,0 +1,9 @@
+month,region,category,sales_rep,revenue,cost,target,orders
+2026-01,North,Software,Ana,42000,21000,39000,120
+2026-01,South,Hardware,Luis,31000,22000,34000,86
+2026-02,North,Software,Ana,45500,22500,41000,132
+2026-02,West,Services,Maria,28500,12000,26000,74
+2026-03,East,Hardware,Camilo,38000,27000,36000,91
+2026-03,South,Services,Luis,33600,14300,31000,88
+2026-04,West,Software,Maria,49200,23900,45000,141
+2026-04,East,Services,Camilo,30100,12800,29500,79
